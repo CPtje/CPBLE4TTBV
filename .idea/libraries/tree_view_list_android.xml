@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tree-view-list-android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Bluegiga/libs/tree-view-list-android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
